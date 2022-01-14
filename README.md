@@ -1,2 +1,2 @@
-# hello-world
+# Moving Average Trading Algorithm
 just another respiratory
